@@ -1,7 +1,22 @@
 {
   "applinks": {
     "apps": [],
-    "details": []
+    "details": [
+      {
+        "appIDs": [
+            "BMWXAG8DRY.com.nrp.peekcloppenburgtestflight.ios",
+            "BMWXAG8DRY.nrp.peek-cloppenburg.ios",
+            "BMWXAG8DRY.de.fashionid.ios",
+            "BMWXAG8DRY.de.ansons.ios"
+        ],
+        "paths": [
+            "*"
+        ],
+        "components": [
+            {"/": "/*"}
+        ]
+      }
+    ]
   },
   "webcredentials": {
     "apps": [
